@@ -31,7 +31,6 @@ Entre o conteúdo localizado estão:
 
 O pacote possui suporte tanto aos textos tradicionais do sistema de localização do jogo quanto a textos armazenados diretamente nos arquivos internos utilizados durante a execução.
 
-No total, foram localizadas **1.814 entradas de texto do sistema FText**, além de **850 ocorrências adicionais de FString** encontradas em mapas, Blueprints e outros dados do jogo.
 
 ---
 
