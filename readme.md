@@ -39,7 +39,7 @@ No total, foram localizadas **1.814 entradas de texto do sistema FText**, além 
 
 <p align="center">
   <img width="48%" alt="Dreams in the Witch House em Português" src="https://github.com/user-attachments/assets/af7122c6-696b-4ced-a4ce-ca70b608304a" />
-  <img width="48%" alt="Dreams in the Witch House em Português" src="https://github.com/user-attachments/assets/3bd31e52-fd52-49d7-adcb-8dd1cb891164" />
+  <img width="48%" alt="Dreams in the Witch House em Português" src="https://github.com/user-attachments/assets/dbd31693-a063-4a4d-b8b4-27755047f4fb" /> 
 </p>
 
 <p align="center">
