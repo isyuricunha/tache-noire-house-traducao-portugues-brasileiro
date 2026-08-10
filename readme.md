@@ -6,7 +6,6 @@
 
 ![Idioma](https://img.shields.io/badge/idioma-Português%20Brasileiro-009c3b)
 ![Jogo](https://img.shields.io/badge/jogo-Tache%20Noire-black)
-![Build](https://img.shields.io/badge/build-23427914-555555)
 
 Uma tradução criada para permitir que jogadores brasileiros aproveitem **Tache Noire** em Português Brasileiro, preservando o tom, a atmosfera e a identidade do jogo.
 
@@ -37,12 +36,6 @@ No total, foram localizadas **1.814 entradas de texto do sistema FText**, além 
 ---
 
 ## 🎮 Compatibilidade
-
-A tradução foi preparada utilizando como referência:
-
-**Tache Noire - Build 23427914**
-
-O funcionamento em versões posteriores ou anteriores do jogo não é garantido.
 
 Caso uma atualização altere os arquivos internos utilizados pelo jogo, poderá ser necessária uma atualização da tradução.
 
