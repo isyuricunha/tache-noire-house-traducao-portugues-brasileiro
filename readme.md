@@ -35,6 +35,20 @@ No total, foram localizadas **1.814 entradas de texto do sistema FText**, além 
 
 ---
 
+## Imagens
+
+<p align="center">
+  <img width="48%" alt="Dreams in the Witch House em Português" src="https://github.com/user-attachments/assets/af7122c6-696b-4ced-a4ce-ca70b608304a" />
+  <img width="48%" alt="Dreams in the Witch House em Português" src="https://github.com/user-attachments/assets/3bd31e52-fd52-49d7-adcb-8dd1cb891164" />
+</p>
+
+<p align="center">
+  <img width="48%" alt="Tache Noire em Português" src="https://github.com/user-attachments/assets/748f4bc3-666c-43cb-b6eb-739465aa69fc" />
+  <img width="48%" alt="Tache Noire em Português" src="https://github.com/user-attachments/assets/a09c8847-774c-4031-8285-da805b21dc75" /> 
+</p>
+
+---
+
 ## 🎮 Compatibilidade
 
 Caso uma atualização altere os arquivos internos utilizados pelo jogo, poderá ser necessária uma atualização da tradução.
